@@ -25,7 +25,7 @@ Specifics for the Leica Q3 43's digital crop sizes:
 
 ### Using the script
 
-Select a Leica file and run the script.
+Select a Leica image variant and run the script.
 
 ### Notes and Warnings
 
