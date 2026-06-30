@@ -23,7 +23,7 @@ Specifics for the Leica Q3 43's digital crop sizes:
 2. The Unix app, exiftool, must be installed in /usr/local/bin/. ExifTool by Phil Harvey can be found at https://exiftool.org. Download the latest macOS package.
 3. Install the script in Capture One's scripts folder: Scripts > Open Script Folder.
 
-Using the script
+### Using the script
 
 Select a Leica file and run the script.
 
