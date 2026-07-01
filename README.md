@@ -1,8 +1,6 @@
 # Capture One AppleScripts for Leica
 
-# Capture One AppleScripts
-
-### Digital Zoom FOV Simulation
+## Digital Zoom FOV Simulation
 
 The Leica Q3 43 allows the photographer to apply a digital crop, aka digital zoom, to images. When shooting in DNG RAW format, the camera retains the full uncropped image and simply writes these zoom values as metadata instructions. When shooting in JPEG format, however, the digital crop is baked into the file destructively. 
 
