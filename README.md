@@ -31,7 +31,7 @@ Select a Leica file and run the script.
 
 ### Notes and Warnings
 
-**Leica does not store focus point information in the metadata. The script therefore centered the crop at variant center and leaves the Crop tool active so you can move the crop to where you remember the focal point to have been. If you always center focus you don't need to do anything.**
+**Leica does not store focus point information in the metadata. The script therefore centers the crop at variant center and leaves the Crop tool active so you can move the crop to where you remember the focal point to have been. If you always center focus you don't need to do anything.**
 
 The macOS package installs the ExifTool command-line application and libraries in /usr/local/bin.
 
