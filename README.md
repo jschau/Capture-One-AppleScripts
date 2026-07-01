@@ -35,6 +35,6 @@ Select a Leica file and run the script.
 
 The macOS package installs the ExifTool command-line application and libraries in /usr/local/bin.
 
-The script, as is, is built to run from Capture One's Script menu. If you run script within Script Editor or Script Debugger, the part of the code that is meant to send keystrokes to Capture One will send them to the script itself. Comment out the keystroke code if you want to run the script in one of those editors.
+The script, as is, is built to run from Capture One's Script menu. If you run the script within Script Editor or Script Debugger, the part of the code that is meant to send keystrokes to Capture One will send them to the script itself. Comment out the keystroke code if you want to run the script in one of those editors.
 
 The script is Leica only.
